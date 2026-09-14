@@ -33,12 +33,4 @@
 
 <br/>
 
-## 📊 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SchmitClement&show_icons=true&theme=radical" alt="Mes stats GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitClement &layout=compact&theme=radical" alt="Langages les plus utilisés" height="150"/>
-</p>
-
-<br/>
 
