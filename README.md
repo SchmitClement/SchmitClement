@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, je suis [Ton Prénom ou Nom]</h1>
-<h3 align="center">[Ton Titre Professionnel - ex: Développeur Full-Stack / Data Scientist] passionné(e) par la création de solutions innovantes.</h3>
+<h1 align="center">Salut 👋, je suis Clément Schmit</h1>
+<h3 align="center">Etudiant de 3ième Année en BUT Informatique</h3>
 
 <br/>
 
