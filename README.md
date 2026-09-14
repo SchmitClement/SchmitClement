@@ -12,7 +12,7 @@
 
 <br/>
 
-## 🛠️ Mes Compétences (Tech Stack)
+## 🛠️ Mes Compétences
 
 **Langages :**
 <p align="left"> 
