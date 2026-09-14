@@ -14,8 +14,6 @@
 
 ## 🛠️ Mes Compétences (Tech Stack)
 
-*Voici quelques exemples de badges. Tu peux générer ceux dont tu as besoin sur [Shields.io](https://shields.io/) :*
-
 **Langages :**
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
